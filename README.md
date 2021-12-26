@@ -1,2 +1,2 @@
 # Deep-Learning
-In this project, i have classified roundworms as alive or dead using a pre-trained convolutional Neural Network
+In this project, i have classified roundworms as alive or dead using a pre-trained convolutional Neural Network on MatLab
